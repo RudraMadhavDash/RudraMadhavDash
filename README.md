@@ -14,18 +14,17 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-- 💻 1+ Year Experience in **C# & ASP.NET Web Forms**
+- 💻 2+ Year Experience in **C# & ASP.NET Web Forms**
 - 🗄️ Strong in **SQL Server & Stored Procedures**
 - 🔔 Worked on Push Notification Systems
 - 🧠 Learning **Data Structures & Algorithms in C#**
-- 🌱 Exploring **Python, Django & React**
 - 🤖 Building my own JARVIS AI Assistant
 - 💪 Gym Discipline Mindset
 - 🌍 Goal: Work Internationally
 
 ---
 
-# ⚡ Hacker Mode Activated
+# ⚡
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=850&lines=Backend+Specialist;C%23+%7C+SQL+%7C+ASP.NET;Future+Data+Engineer;AI+Automation+Builder;Code+Lift+Repeat" />
