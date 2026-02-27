@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rudra</h1>
+<h3 align="center">.NET Developer </h3>
 
-<!--
-**RudraMadhavDash/RudraMadhavDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 💻 Working with **C#, ASP.NET Web Forms**
+- 🗄️ SQL Server & Stored Procedures
+- 🧠 Learning **DSA in C#**
+- 🌱 Exploring **Python, Django, React**
+- 🤖 Building my own JARVIS AI Assistant
+- 🎯 Goal: Work Internationally
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,python,react,js,html,css,git,github" />
+</p>
+
+---
+
+
+
+
+### 🔥 Current Focus
+- Mastering Backend Development
+- Improving Problem Solving
+- Building Real-World Projects
+
+---
