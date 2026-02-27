@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rudra</h1>
 <h3 align="center">.NET Developer </h3>
 
----
-<img width="735" height="412" alt="image" src="https://github.com/user-attachments/assets/8b08cbda-bc43-4b52-8ffa-206b36836a3c" />
 
 
 ### 👨‍💻 About Me
