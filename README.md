@@ -44,13 +44,7 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🏢 Corporate Strength
 
@@ -64,15 +58,6 @@
 
 ---
 
-# 🚀 2026 Roadmap
-
-- 🧠 Master Advanced SQL & Performance Tuning  
-- ⚙️ Build Full Stack App (React + Django + SQL)  
-- 🤖 Complete JARVIS AI Assistant  
-- 📊 Transition into Data Engineering  
-- 🌍 Apply for International Roles  
-
----
 
 # 🎨 Creative Developer Side
 
